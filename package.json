@@ -4,6 +4,7 @@
     "should": "*"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "watch": "mocha --watch"
   }
 }
